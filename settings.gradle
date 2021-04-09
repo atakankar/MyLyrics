@@ -1,0 +1,2 @@
+rootProject.name='MyLyrics'
+include ':app', ':spotify-app-remote-release-0.7.1'
